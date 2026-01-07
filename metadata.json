@@ -1,0 +1,5 @@
+{
+  "name": "AI VẼ HÌNH THÔNG MINH",
+  "description": "Ứng dụng vẽ hình toán học THCS thông minh sử dụng Gemini AI để hiểu đề bài tiếng Việt và tạo hình vẽ tương tác.",
+  "requestFramePermissions": []
+}
